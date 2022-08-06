@@ -21,7 +21,7 @@
     "bootstrap-vue": "^2.0.0-rc.12",
     "cors": "^2.8.4",
     "express": "^4.16.4",
-    "mongoose": "^5.3.4",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
     "nodemon": "^1.18.4",
     "vue": "^2.5.2",
